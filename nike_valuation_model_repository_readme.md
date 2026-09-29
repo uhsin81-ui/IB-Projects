@@ -37,13 +37,13 @@ The workbook contains seven interconnected valuation and transaction modules:
   * **Shareholders’ Equity Roll-Forward:** Stock-based compensation, retained earnings, dividend distributions, and share repurchases.
 
 ### 2. Discounted Cash Flow (DCF) Valuation
-* **Cash Flow Stream:** Unlevered Free Cash Flow ($UFCF = \text{EBIT}(1 - t) + \text{D\&A} - \text{CapEx} - \Delta\text{NWC}$).
+* **Cash Flow Stream:** Unlevered Free Cash Flow 
 * **Cost of Capital (WACC):**
-  * Capital Asset Pricing Model (CAPM) derivation for Cost of Equity ($K_e$).
-  * Industry-benchmarked beta, current risk-free rate ($R_f$), and equity risk premium (ERP).
+  * Capital Asset Pricing Model (CAPM) derivation for Cost of Equity 
+  * Industry-benchmarked beta, current risk-free rate, and equity risk premium (ERP).
   * Effective after-tax cost of debt based on Nike's outstanding credit facilities and long-term notes.
 * **Terminal Value:** Evaluated via dual-track methodology:
-  * Gordon Growth / Perpetuity Growth Method ($g = 2.0\% - 3.0\%$).
+  * Gordon Growth / Perpetuity Growth Method 
   * Exit Multiple Method (EV / EBITDA).
 * **Sensitivities:** Two-way dynamic data tables analyzing Implied Share Price across WACC vs. Terminal Growth Rate and Exit Multiple.
 
