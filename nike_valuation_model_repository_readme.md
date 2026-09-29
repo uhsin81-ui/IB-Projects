@@ -100,7 +100,7 @@ The workbook contains seven interconnected valuation and transaction modules:
 ## Author & Contact
 
 **Keshvi Agrawal**  
-*CFA Candidate | Economics (Hons.), Lady Shri Ram College for Women, University of Delhi*  
+*CFI Candidate | Economics (Hons.), Lady Shri Ram College for Women, University of Delhi*  
 *Background in Investment Banking Analysis, AI Strategy & Financial Advisory*
 
 * **LinkedIn:** [linkedin.com/in/keshvi-Agrawal](https://www.linkedin.com/in/keshvi-Agrawal)
